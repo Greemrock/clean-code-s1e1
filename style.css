@@ -32,6 +32,13 @@ body {
   margin: 0 auto 0;
 }
 
+.name-title {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  opacity: 0;
+}
+
 .task {
   width: 56%;
   display: inline-block;
